@@ -2,7 +2,7 @@
 
 This is a simple (work-in-progress) **Flask web application** example that:
 - **Processes** an Excel file (`dummy_soccer_stats.xlsx`) and inserts data into an **SQLite database**.
-- **Generates interactive graphs** using **Plotly** to visualize student activity data.
+- **Generates interactive graphs** using **Plotly** to visualize soccer data.
 
 ---
 
